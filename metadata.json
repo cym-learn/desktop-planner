@@ -1,0 +1,5 @@
+{
+  "name": "Desktop Planner",
+  "description": "A resizable desktop planner with date blocks and an unscheduled task list.",
+  "requestFramePermissions": []
+}
